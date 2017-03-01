@@ -7,23 +7,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Random Musings of a Dabbler'
+description: "People don't fit into boxes - we are more like neverending venn diagrams."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jazmine Livingston'
 # edit 'categories' in the front matter of every post to match this username
 nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+bio: 'Need to update this bio later.'
+location: 'California, USA'
+url: 'http://www.jaz-marie.com/blog'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+# short_url: 'biomadeira.github.io/jasper/'
+#google_analytics: UA-69281367-1
+#disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: itsonlyjaz
+repo: blog
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+relative_source: ../
+destination: ../
+production_url:  https://www.jaz-marie.com/blog
+source_url:      https://www.jaz-marie.com/blog
 
 exclude:
   - README.md
