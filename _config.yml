@@ -17,7 +17,7 @@ nickname: casper
 bio: 'Need to update this bio later.'
 location: 'California, USA'
 url: 'http://www.jaz-marie.com/blog'
-image: 'assets/images/casper.png'
+image: 'blog/assets/images/casper.png'
 
 # short_url: 'biomadeira.github.io/jasper/'
 #google_analytics: UA-69281367-1
